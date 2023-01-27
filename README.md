@@ -1,4 +1,4 @@
- Keep looking, software developer in progress
+ Keep looking, just a software developer in progress
 
 
 <!---
