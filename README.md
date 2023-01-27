@@ -1,5 +1,4 @@
- 
-hi, i'm trying to be a programmer
+ Keep looking, software developer in progress
 
 
 <!---
